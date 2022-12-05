@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sagar1079&theme=algolia" width="400">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=algolia" width="400">
 </p>
-<a href="https://github.com/sagar1079"><img alt="Sagar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagar1079&custom_title=Sagar's%20Contribution%20Graph&theme=react-dark" /></a>
+
   <br/>
 
 <h3 align="left">Connect with me:</h3>
