@@ -5,10 +5,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p>
-<h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
+
 <img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png">
 
-
+<h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif">
 
