@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Sagar Wankhade  <img width="60" height="60"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;fullstack+developer" > 
 </p>
 
 <img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png">
